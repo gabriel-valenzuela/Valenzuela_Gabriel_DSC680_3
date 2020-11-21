@@ -23,7 +23,7 @@ https://www.kaggle.com/danoozy44/comic-characters
 
 ### Methodology
 
-Random Forest Classifier (Preview of Model)
+Decision Tree Model (Preview of Model)
 
 To see entire code for analysis, look into project folder.
 
